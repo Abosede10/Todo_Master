@@ -1,0 +1,126 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+body{
+    background-color: grey;
+    height: 100%;
+}
+.container{
+    background-image: url('img/redapp.jpg');
+    height: 280px;
+    width: 60%;
+    margin: 0 auto;
+    background-position: center;
+    border-radius: 6px;
+    box-shadow: 7px 7px gold;
+    box-sizing: content-box ;
+}
+
+.text {
+    text-align: center;
+    padding-top: 20px;
+    /* font-size: 40px; */
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 48px;
+    text-shadow: 4px 4px 4pX white;
+}
+.styling{
+    color: GOLD;
+    text-shadow: 4px 4px 4pX black;
+}
+#clear{
+    font-size: 35px;
+    left: 760px;
+    padding-top:2px ;
+    color: black;
+    position: relative;;
+
+
+}
+
+#clockDisplay{
+
+    font-family: 'Bubblegum Sans', cursive ;
+    color: black;
+    font-size: 22px;
+    padding-top: 10%;
+    position: relative;
+    left: 2%;
+}
+
+
+
+.search{
+    padding-top: 10px;
+    margin-left: 320px ;
+    width: 40%;
+    position: relative;
+    
+}
+.btn{
+    background-color: gold;
+
+}
+.table{
+    background-color: white;
+    margin:  auto;
+    /* position: relative; */
+    width: 60% !important; 
+    
+    
+
+}
+.thead{
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.trow{
+    font-size: 15px;
+    font-family: 'Bubblegum Sans', cursive;
+    color: grey;
+}
+ #delete{
+    color: red;
+}
+#delete:hover{
+    color: black;
+    box-shadow: 7px; 
+} 
+.input-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 3%;
+    
+}
+.input-div .input{
+    padding: 0.5rem 1rem;
+    height: 50px;
+    outline: none;
+    background-color: #fff;
+    width:50%;
+    font-size: 1.15rem;
+    border:none;
+    margin: 0.25rem;
+    border-radius: 25px;
+}  
+.addButton{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    background-color: gold;
+    color: black;
+    margin: o.25rem;
+    cursor: pointer;
+   }
+   .addButton:hover{
+       opacity: 0.7;
+       background-color: brown;
+       color: white;
+       
+   }

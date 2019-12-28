@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>
+      Alex Muench / Projects / Todoist | Dribbble
+  </title>
+  <meta name="description" content="Explore this designers work on Dribbble, the best place for to designers gain inspiration, feedback, community, and jobs worldwide." />
+  <meta charset="utf-8" />
+  <meta name="theme-color" content="#333333">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <meta name="referrer" content="origin-when-cross-origin">
+  <!--[if gte IE 7]><!-->
+  <link rel="stylesheet" media="screen, projection" href="https://cdn.dribbble.com/assets/dribbble-1-0/master-376b907483c22cb71764f0f0615987b30b8dd71bdbd1ba66fab72029b52c090e.css" />
+  
+  <link rel="preload" href="https://cdn.dribbble.com/assets/dribbble-1-0/attachment-overlay-7e9f0d105045800cc4063dcac3a315f2ba27426a4c9bbdcc7ca3f9c38cc3b787.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.dribbble.com/assets/dribbble-1-0/attachment-overlay-7e9f0d105045800cc4063dcac3a315f2ba27426a4c9bbdcc7ca3f9c38cc3b787.css"></noscript>
+
+  <link rel="preload" href="https://cdn.dribbble.com/assets/dribbble-1-0/master_async-06900d14dfe4098d96b4908d02158097acd5def9883df2b7d7006db1e2dfe47b.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.dribbble.com/assets/dribbble-1-0/master_async-06900d14dfe4098d96b4908d02158097acd5def9883df2b7d7006db1e2dfe47b.css"></noscript>
+
+  <!-- <![endif]-->
+  <link href="https://cdn.dribbble.com/assets/dribbble-vector-ball-95ca193529993e9b3904f7adb541680aba196642f557cfaf3cdbb0a48a284be4.svg" rel="mask-icon" color="#ea4c89" />
+<link href="https://cdn.dribbble.com/assets/apple-touch-icon-precomposed-4a188d3f4dd693b67971fda843fd4bdeae751f9a245e3b878cae17e0a9d6a0a3.png" rel="apple-touch-icon-precomposed" />
+<link href="https://cdn.dribbble.com/assets/favicon-63b2904a073c89b52b19aa08cebc16a154bcf83fee8ecc6439968b1e6db569c7.ico" rel="icon" />
+<link href="https://cdn.dribbble.com/assets/dribbble-ball-192-ec064e49e6f63d9a5fa911518781bee0c90688d052a038f8876ef0824f65eaf2.png" sizes="192x192" rel="icon" />
+
+  
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1r9KC68vEkQByCVvUxvaQGUIEeAeJ06194GoV4mJEPCc8BGsLSfURomY2RCXYJ0OLcP43KaEQ7sQDxnRtwdYDQ==" />
+  
+
+  <meta name="apple-itunes-app" content="app-id=1228326440, app-argument=https://dribbble.com/alexmuench/projects/429186-Todoist?page=4">
+
+  <meta property="fb:app_id" content="811749452338490">
+
+  <script>
+    if (location.hash.match(/^#\./) && window.history) {
+      window.history.replaceState({}, window.title, location.origin + location.pathname + location.search)
+    }
+  </script>
+  <noscript>
+    <style>ol.dribbbles { display: block !important }</style>
+  </noscript>
+  <meta name="segment-controller" content="projects" />
+<meta name="segment-action" content="show" />
+
+
+</head>
+
+<body id="project" class="logged-out not-pro not-player not-self not-team not-on-team  grid-small grid-with-meta ">
+
+  <div class="psst">
+  <div>
+    <a href="#" class="close" aria-label="close"><img width="12" alt="close" src="https://cdn.dribbble.com/assets/icon-x-announcement-b062bf0cde20583acd162c97c11bbb0ea55f8c85da88a0fff8aa883bdb01c5f0.png" /></a>
+
+      <p data-url="/announcements/240/view">
+        <span>Hiring in the new year? Get set up for success with <a href="https://dribbble.com/hiring?utm_campaign=announcement-240&amp;utm_medium=banner&amp;utm_source=dribbble">25% off any of our hiring products in December</a>. </span>
+      </p>
+  </div>
+</div>
+
+
+  <div id="header" role="banner" class="group updated-nav header">
+
+  <div id="header-inner" class="group header-inner">
+
+    <div id="logo" class="nav-logo">
+      <a href="/"><img alt="dribbble" src="https://cdn.dribbble.com/assets/logo-bw-0200c7483844c355752e89efaa4ba89b83c9c591d70254ba10f4b25d901359d0.gif" /></a>
+    </div>
+
+    <a href="#nav" id="toggle-nav" class="toggle-nav" aria-label="Toggle Navigation">
+      <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" role="img" class="icon header-icon"><path d="m4 7h16c1.1 0 2-.9 2-2s-.9-2-2-2h-16c-1.1 0-2 .9-2 2s.9 2 2 2zm16 10h-16c-1.1 0-2 .9-2 2s.9 2 2 2h16c1.1 0 2-.9 2-2s-.9-2-2-2zm0-7h-16c-1.1 0-2 .9-2 2s.9 2 2 2h16c1.1 0 2-.9 2-2s-.9-2-2-2z"></path></svg>
+
+      <span class="close">×</span>
+    </a>
+
+    <ul id="nav" class="main-nav" role="navigation">
+
+        <li id="t-signup" class="tab-signup" data-top-level="signup">
+          <a class="primary-btn" data-signup-trigger="true" data-href="/signup/new" data-context="top-nav" href="">
+             <span>Sign up</span>
+</a>        </li>
+        <li id="t-signin" class="tab-signin" data-top-level="signin">
+          <a href="/session/new?return_to=%2Falexmuench%2Fprojects%2F429186-Todoist%3Fpage%3D4">
+            <span>Sign in</span>
+</a>        </li>
+
+
+      <li class="nav-dropdown-item" data-top-level="explore">
+        <a class="has-sub" href="#">
+          Explore
+          <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" role="img" class="icon caret">
+<path d="M1 1L5.07223 5.1517L9.23083 1" stroke="black"></path>
+</svg>
+
+</a>          <div class="nav-dropdown wide responsive">
+  <ul>
+    <li class="mega-nav-box">
+      <a href="/shots">
+        <div class="nav-quad-layout mega-nav-popular-shots">
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/1875714/screenshots/9161225/dribbble2_2x.png?compress=1&amp;resize=140x105" alt="Dribbble2 2x" />
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/2017098/screenshots/9162898/christmas_copy_2x.png?compress=1&amp;resize=140x105" alt="Christmas copy 2x" />
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/4189231/screenshots/9162319/onboarding_anim.png?compress=1&amp;resize=140x105" alt="Onboarding anim" />
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/2460492/screenshots/9159732/logotype_branding_brand.png?compress=1&amp;resize=140x105" alt="Logotype branding brand" />
+        </div>
+        <div class="mega-nav-copy">
+          <div class="title">Shots</div>
+          <span>Get inspired with designs shared by our talented community</span>
+        </div>
+</a>    </li>
+
+    <li class="mega-nav-box">
+      <a href="/designers">
+        <img class="image-shadow" src="/assets/updated_navigation/top-designers-cbc697fdfc15f9c29e5a63f480d3e65d773b73ba8968412dc6e4b21ff84f0175.png" alt="Top designers" />
+        <div class="mega-nav-copy">
+          <div class="title">Top Designers</div>
+          <span>Check out the rankings and see which designers are trending</span>
+        </div>
+</a>    </li>
+
+    <li class="mega-nav-box">
+      <a href="/stories">
+        <div class="nav-tri-layout mega-nav-blog-posts">
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/1410611/screenshots/6808667/___________________3_.jpg?compress=1&amp;resize=200x150" alt="                   3 " />
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/6203/screenshots/3889093/gp_air_2017-10-20_at_4.18.58_am.png?compress=1&amp;resize=200x150" alt="Gp air 2017 10 20 at 4.18.58 am" />
+            <img class="image-shadow" src="https://cdn.dribbble.com/users/380199/screenshots/9072288/christmas_presents.png?compress=1&amp;resize=200x150" alt="Christmas presents" />
+        </div>
+        <div class="mega-nav-copy">
+          <div class="title">Blog</div>
+          <span>Amazing interviews with design industry leaders, tutorials, and more</span>
+        </div>
+</a>    </li>
+
+      <li class="mega-nav-box mega-nav-weekly-playoff">
+        <a href="/shots/9149585-Design-a-Yule-Log-or-Festive-Fireplace-Scene">
+          <img class="image-shadow" src="https://cdn.dribbble.com/users/39/screenshots/9149585/wwu_17.png?compress=1&amp;resize=280x210" alt="Wwu 17" />
+          <div class="mega-nav-copy">
+            <div class="title">Weekly Warmup</div>
+            <span>Join the fun and flex your design skills with our weekly prompt</span>
+          </div>
+</a>      </li>
+
+      <li class="mega-nav-box">
+        <a href="/shots?list=playoffs">
+          <div class="nav-tri-layout mega-nav-featured-playoffs">
+              <img class="image-shadow" src="https://cdn.dribbble.com/users/2254924/screenshots/6283328/adobexd-fonts-project-dribbble-movie.png?compress=1&amp;resize=200x150" alt="Adobexd fonts project dribbble movie" />
+              <img class="image-shadow" src="https://cdn.dribbble.com/users/1960589/screenshots/6628207/animacja_fragment_1.png?compress=1&amp;resize=200x150" alt="Animacja fragment 1" />
+              <img class="image-shadow" src="https://cdn.dribbble.com/users/2254924/screenshots/6764060/final_post_dribbble_xd_undraw.png?compress=1&amp;resize=200x150" alt="Final post dribbble xd undraw" />
+          </div>
+
+          <div class="mega-nav-copy">
+            <div class="title">Playoffs</div>
+            <span>See shots that other designers are riffing on & participate yourself</span>
+          </div>
+</a>      </li>
+
+    <li class="mega-nav-box nav-extras">
+      <ul>
+        <li><a href="/teams">Teams</a></li>
+        <li><a href="/goods">Goods for Sale</a></li>
+        <li><a href="/meetups">Meetups</a></li>
+        <hr/>
+        <li><a href="https://shop.dribbble.com/">Dribbble Shop</a></li>
+        <li><a text="About Dribbble" href="/about">About Dribbble</a></li>
+        <li><a href="/advertise">Advertise</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+      </li>
+
+      <li class="nav-dropdown-item" data-top-level="designers">
+        <a class="has-sub" href="#">
+          For Designers
+          <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" role="img" class="icon caret">
+<path d="M1 1L5.07223 5.1517L9.23083 1" stroke="black"></path>
+</svg>
+
+</a>        <div class="nav-dropdown">
+  <ul>
+    <li class="mega-nav-box">
+      <a href="/jobs">
+        <img src="https://cdn.dribbble.com/assets/updated_navigation/job-board-3625324c15e3361d86616f77704785852e3974498067687220e19b4ac545cd18.png" alt="Job board" />
+        <div class="mega-nav-copy">
+          <div class="title">Job Board</div>
+          <span>Find your dream design job on Dribbble</span>
+        </div>
+</a>    </li>
+
+      <li class="mega-nav-box">
+        <a href="/jobs/projects">
+          <img src="https://cdn.dribbble.com/assets/updated_navigation/dribbble-projects-48ed961934fc578411ec8c9e5a4ad0c17ccbb4fbabf01992770c99014b0dd55c.png" alt="Dribbble projects" />
+          <div class="mega-nav-copy">
+            <div class="title">Pro Projects</div>
+            <span>An exclusive resource for contract work</span>
+          </div>
+</a>      </li>
+
+    <li class="mega-nav-box">
+        <a href="/pro">
+          <img src="https://cdn.dribbble.com/assets/updated_navigation/dribbble-pro-f0793cde95788865b8b497035f1bc4152fb161b53d98e58043cee269ead9844b.png" alt="Dribbble pro" />
+          <div class="mega-nav-copy">
+              <div class="title">Go Pro</div>
+              <span>Take your career to the next level</span>
+          </div>
+</a>    </li>
+  </ul>
+</div>
+
+      </li>
+
+
+        <li id="t-hiring" class="tab-hiring" data-top-level="hiring">
+          <a class="left-outlined" href="/hiring">
+            <span>Hiring Designers?</span>
+</a>        </li>
+
+
+      <li id="t-search" class="tab-search" role="search">
+        <form id="search" class="js-nav-search-form has-animation search-wrapper " action="https://dribbble.com/search">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" class="icon js-toggle-nav-search">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.9274 9.96369C17.9274 14.3619 14.3619 17.9274 9.96369 17.9274C5.56546 17.9274 2 14.3619 2 9.96369C2 5.56546 5.56546 2 9.96369 2C14.3619 2 17.9274 5.56546 17.9274 9.96369ZM15.8427 18.0089C14.1948 19.2152 12.1624 19.9274 9.96369 19.9274C4.46089 19.9274 0 15.4665 0 9.96369C0 4.46089 4.46089 0 9.96369 0C15.4665 0 19.9274 4.46089 19.9274 9.96369C19.9274 12.1901 19.1972 14.2459 17.9631 15.9047C17.997 15.9331 18.0298 15.9631 18.0616 15.9949L22.9403 20.8736C23.5261 21.4594 23.5261 22.4092 22.9403 22.9949C22.3545 23.5807 21.4048 23.5807 20.819 22.9949L15.9403 18.1163C15.9057 18.0817 15.8732 18.0459 15.8427 18.0089Z"></path>
+</svg>
+
+          <input class="search-text" type="search" name="q" placeholder="Search " value="" />
+          
+        </form>
+      </li>
+    </ul>
+
+    <div id="mobile-nav" class="mobile-nav">
+
+      <form class="mobile-nav-search search-wrapper" action="https://dribbble.com/search">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" class="icon ">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.9274 9.96369C17.9274 14.3619 14.3619 17.9274 9.96369 17.9274C5.56546 17.9274 2 14.3619 2 9.96369C2 5.56546 5.56546 2 9.96369 2C14.3619 2 17.9274 5.56546 17.9274 9.96369ZM15.8427 18.0089C14.1948 19.2152 12.1624 19.9274 9.96369 19.9274C4.46089 19.9274 0 15.4665 0 9.96369C0 4.46089 4.46089 0 9.96369 0C15.4665 0 19.9274 4.46089 19.9274 9.96369C19.9274 12.1901 19.1972 14.2459 17.9631 15.9047C17.997 15.9331 18.0298 15.9631 18.0616 15.9949L22.9403 20.8736C23.5261 21.4594 23.5261 22.4092 22.9403 22.9949C22.3545 23.5807 21.4048 23.5807 20.819 22.9949L15.9403 18.1163C15.9057 18.0817 15.8732 18.0459 15.8427 18.0089Z"></path>
+</svg>
+
+        <input class="search-text" type="search" name="q" placeholder="Search " value="" />
+        
+      </form>
+
+      <ul class="mobile-nav-main">
+        <li>
+          <a href="#" class="toggle-mobile-nav-dropdown" data-sub-nav="explore">
+            Explore
+            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" role="img" class="icon caret-down"><path d="m4.585 10.468 7.415 7.532 7.415-7.532c.779-.792.779-2.081 0-2.873s-2.049-.792-2.829 0l-4.586 4.659-4.587-4.659c-.378-.384-.88-.595-1.414-.595s-1.036.211-1.414.595c-.78.792-.78 2.082 0 2.873z"></path></svg>
+
+          </a>
+          <ul class="js-mobile-nav-explore mobile-dropdown-nav">
+            <li><a href="/shots">Shots</a></li>
+            <li><a href="/designers">Top Designers</a></li>
+            <li><a href="/stories">Blog</a></li>
+              <li><a href="https://dribbble.com/shots/9149585">Weekly Warm-up</a></li>
+              <li><a href="/shots?list=playoffs">Playoffs</a></li>
+            <li>
+              <a href="#" class="toggle-mobile-nav-dropdown js-toggle-explore-sub-nav" data-sub-nav="sub-explore">
+                More
+                <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" role="img" class="icon caret-down"><path d="m4.585 10.468 7.415 7.532 7.415-7.532c.779-.792.779-2.081 0-2.873s-2.049-.792-2.829 0l-4.586 4.659-4.587-4.659c-.378-.384-.88-.595-1.414-.595s-1.036.211-1.414.595c-.78.792-.78 2.082 0 2.873z"></path></svg>
+
+              </a>
+              <ul class="js-mobile-nav-sub-explore mobile-dropdown-nav">
+                <li><a href="/teams">Teams</a></li>
+                <li><a href="/goods">Goods for Sale</a></li>
+                <li><a href="/meetups">Meetups</a></li>
+                <li><a href="https://shop.dribbble.com/">Dribbble Shop</a></li>
+                <li><a text="About Dribbble" href="/about">About Dribbble</a></li>
+                <li><a href="/advertise">Advertise</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+
+        <li>
+          <a href="#" class="toggle-mobile-nav-dropdown"  data-sub-nav="designers">
+            For Designers
+            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" viewBox="0 0 24 24" role="img" class="icon caret-down"><path d="m4.585 10.468 7.415 7.532 7.415-7.532c.779-.792.779-2.081 0-2.873s-2.049-.792-2.829 0l-4.586 4.659-4.587-4.659c-.378-.384-.88-.595-1.414-.595s-1.036.211-1.414.595c-.78.792-.78 2.082 0 2.873z"></path></svg>
+
+          </a>
+          <ul class="js-mobile-nav-designers mobile-dropdown-nav">
+            <li><a href="/jobs">Job Board</a></li>
+              <li><a href="/jobs/projects">Pro Projects</a></li>
+              <li>
+                <a href="/pro">
+                    Go Pro
+</a>              </li>
+          </ul>
+        </li>
+
+          <li>
+            <a href="/hiring">Hiring Designers?</a>
+          </li>
+
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+
+<div class="ajax notice hide">
+  <h2></h2>
+</div>
+
+
+
+
+<div id="wrap">
+  
+  
+  
+
+  <div id="wrap-inner">
+    <div id="content" role="main">
+      <div class="notice-alert">
+        <h3><!-- message goes here --></h3>
+        <a href="#" class="close" aria-label="close">
+          <img width="25" alt="close" src="https://cdn.dribbble.com/assets/icon-shot-x-light-2x-a4fcd61bdb114023583740bd9f5a46734e243e5be2bff1baa3e1cc33e7877fcd.png" />
+        </a>
+      </div>
+
+      
+
+<div id="main" class="main-full floating-sidebar-container group">
+  <div class="floating-sidebar project-info">
+
+    <div class="profile-info-mod profile-essentials">
+      <h1 class="vcard">
+        <a class="url" rel="contact" title="Alex Muench" href="/alexmuench"><picture>
+  <source srcset="https://cdn.dribbble.com/users/393446/avatars/normal/b0c6c404a8b3c7e78cb90d045b3b1672.png?1526558102" media="(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx)">
+  <source srcset="https://cdn.dribbble.com/users/393446/avatars/small/b0c6c404a8b3c7e78cb90d045b3b1672.png?1526558102">
+  <img class="photo" alt="Alex Muench" src="https://cdn.dribbble.com/users/393446/avatars/small/b0c6c404a8b3c7e78cb90d045b3b1672.png?1526558102" />
+</picture>
+</a>
+        <a class="url" href="/alexmuench/projects/429186-Todoist">Todoist</a>
+        <span class="project-owner">
+          <span class="project-by">by</span> <a class="locality" rel="contact" href="/alexmuench">Alex Muench</a>
+        </span>
+      </h1>
+
+        <div class="project-desc">
+          todoist.com
+        </div>
+
+      <p class="project-contents">
+        27
+        <span class="meta">Shots</span>
+          <span class="sep">+</span> 20
+          <span class="meta">Attachments</span>
+      </p>
+
+
+      <a href="#" class="floating-sidebar-toggle">
+        <span>More</span>
+      </a>
+    </div>
+
+    <div class="floating-sidebar-extra">
+      
+        <div class="profile-info-mod">
+          <h3>More Projects</h3>
+
+          <ul class="profile-projects">
+              <li class="">
+                <a href="/alexmuench/projects/362152-Wallpaper">
+                  <img src="https://cdn.dribbble.com/users/393446/screenshots/8069814/multiple_modals_or_websites.png" alt="Multiple modals or websites" />
+                  <h4>Wallpaper</h4>
+                  <span class="meta">10 shots</span>
+</a>              </li>
+              <li class="">
+                <a href="/alexmuench/projects/411901-Marvel-product-ideas">
+                  <img src="https://cdn.dribbble.com/users/393446/screenshots/2983467/emptyabout-prototype.gif" alt="Emptyabout prototype" />
+                  <h4>Marvel product ideas</h4>
+                  <span class="meta">6 shots</span>
+</a>              </li>
+              <li class="selected">
+                <a href="/alexmuench/projects/429186-Todoist">
+                  <img src="https://cdn.dribbble.com/users/393446/screenshots/2971318/dribbble.png" alt="Dribbble" />
+                  <h4>Todoist</h4>
+                  <span class="meta">27 shots</span>
+</a>              </li>
+              <li class="">
+                <a href="/alexmuench/projects/234962-anonymoX">
+                  <img src="https://cdn.dribbble.com/users/393446/screenshots/2542042/anonymox.png" alt="Anonymox" />
+                  <h4>anonymoX</h4>
+                  <span class="meta">4 shots</span>
+</a>              </li>
+              <li class="">
+                <a href="/alexmuench/projects/241626-Themeboard">
+                  <img src="https://cdn.dribbble.com/users/393446/screenshots/2162756/blue_trooper.png" alt="Blue trooper" />
+                  <h4>Themeboard</h4>
+                  <span class="meta">19 shots</span>
+</a>              </li>
+              <li class="">
+                <a href="/alexmuench/projects/221640-Short">
+                  <img src="https://cdn.dribbble.com/users/393446/screenshots/2007261/short_factory_2.png" alt="Short factory 2" />
+                  <h4>Short</h4>
+                  <span class="meta">20 shots</span>
+</a>              </li>
+            <li class="all">
+              <a href="/alexmuench/projects">
+                See
+                  all 9
+                projects &rsaquo;
+</a>            </li>
+          </ul>
+        </div>
+
+    </div>
+  </div>
+
+  <div class="floating-sidebar-content">
+    
+  <div id="shot-2075079" class="shot-section">
+    <div class="the-shot">
+      <div class="single with-frame">
+        <div class="single-grid">
+          <div class="single-img">
+            <a href="/shots/2075079-Todoist-for-Apple-Watch-Coming-May-28"><picture>
+  <source srcset="https://cdn.dribbble.com/users/393446/screenshots/2075079/dribbble_teaser_1.png" media="(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx)">
+  <source srcset="https://cdn.dribbble.com/users/393446/screenshots/2075079/dribbble_teaser_1_1x.png">
+  <img alt="Todoist for Apple Watch: Coming May 28" src="https://cdn.dribbble.com/users/393446/screenshots/2075079/dribbble_teaser_1_1x.png" />
+</picture>
+</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="screenshot-meta">
+      <h3 class="shot-title"><a href="/shots/2075079-Todoist-for-Apple-Watch-Coming-May-28">Todoist for Apple Watch: Coming May 28</a></h3>
+      <p class="time">May 22, 2015</p>
+        <p>Get ready to start getting more done on the go. Todoist for Apple Watch is hitting the App Store May 28!
+
+More Teasers of the UI will follow.</p>
+
+
+    </div>
+
+
+  </div>
+
+  <div id="shot-2040135" class="shot-section">
+    <div class="the-shot">
+      <div class="single with-frame">
+        <div class="single-grid">
+          <div class="single-img">
+            <a href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper"><picture>
+  <source srcset="https://cdn.dribbble.com/users/393446/screenshots/2040135/teaser_wallpaper.png" media="(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx)">
+  <source srcset="https://cdn.dribbble.com/users/393446/screenshots/2040135/teaser_wallpaper_1x.png">
+  <img alt="Todoist for Apple Watch Wallpaper" src="https://cdn.dribbble.com/users/393446/screenshots/2040135/teaser_wallpaper_1x.png" />
+</picture>
+</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="screenshot-meta">
+      <h3 class="shot-title"><a href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper">Todoist for Apple Watch Wallpaper</a></h3>
+      <p class="time">April 28, 2015</p>
+        <p>Out of excitement for the soon release of Todoist for Apple Watch I made some wallpapers in my free time. We can't wait to show you what we're working on soon!
+
+Find the Wallpapers here:
+iPhone 4
+iPhone 5
+iPhone 6
+iPhone 6 Plus
+iPad
+Nexu...</p>
+
+        <div class="attach">
+          <h3>5 Attachments</h3>
+          <ul>
+              <li>
+                <a href="#attachment-374548">iPhone_6_Plus_TD.png</a>
+              </li>
+              <li>
+                <a href="#attachment-374547">iPhone_5_TD.png</a>
+              </li>
+              <li>
+                <a href="#attachment-374546">iPhone_4_TD.png</a>
+              </li>
+              <li>
+                <a href="#attachment-374545">1280x720.png</a>
+              </li>
+              <li>
+                <a href="#attachment-374544">iPad_TD.png</a>
+              </li>
+          </ul>
+        </div>
+
+    </div>
+
+      <div id="attachment-374548" class="the-shot the-attachment">
+        <div class="single with-frame">
+            <a target="attachment-374548" href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper/attachments/374548?project_id=429186">
+              <img src="https://cdn.dribbble.com/users/393446/screenshots/2040135/attachments/374548/iPhone_6_Plus_TD.png" alt="Iphone 6 plus td" />
+</a>        </div>
+      </div>
+      <div id="attachment-374547" class="the-shot the-attachment">
+        <div class="single with-frame">
+            <a target="attachment-374547" href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper/attachments/374547?project_id=429186">
+              <img src="https://cdn.dribbble.com/users/393446/screenshots/2040135/attachments/374547/iPhone_5_TD.png" alt="Iphone 5 td" />
+</a>        </div>
+      </div>
+      <div id="attachment-374546" class="the-shot the-attachment">
+        <div class="single with-frame">
+            <a target="attachment-374546" href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper/attachments/374546?project_id=429186">
+              <img src="https://cdn.dribbble.com/users/393446/screenshots/2040135/attachments/374546/iPhone_4_TD.png" alt="Iphone 4 td" />
+</a>        </div>
+      </div>
+      <div id="attachment-374545" class="the-shot the-attachment">
+        <div class="single with-frame">
+            <a target="attachment-374545" href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper/attachments/374545?project_id=429186">
+              <img src="https://cdn.dribbble.com/users/393446/screenshots/2040135/attachments/374545/1280x720.png" alt="1280x720" />
+</a>        </div>
+      </div>
+      <div id="attachment-374544" class="the-shot the-attachment">
+        <div class="single with-frame">
+            <a target="attachment-374544" href="/shots/2040135-Todoist-for-Apple-Watch-Wallpaper/attachments/374544?project_id=429186">
+              <img src="https://cdn.dribbble.com/users/393446/screenshots/2040135/attachments/374544/iPad_TD.png" alt="Ipad td" />
+</a>        </div>
+      </div>
+
+  </div>
+
+  <div id="shot-2034592" class="shot-section">
+    <div class="the-shot">
+      <div class="single with-frame">
+        <div class="single-grid">
+          <div class="single-img">
+            <a href="/shots/2034592-Todoist-for-Apple-Watch-Coming-Soon"><picture>
+  <source srcset="https://cdn.dribbble.com/users/393446/screenshots/2034592/dribbble_teaser_2.png" media="(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx)">
+  <source srcset="https://cdn.dribbble.com/users/393446/screenshots/2034592/dribbble_teaser_2_1x.png">
+  <img alt="Todoist for Apple Watch: Coming Soon" src="https://cdn.dribbble.com/users/393446/screenshots/2034592/dribbble_teaser_2_1x.png" />
+</picture>
+</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="screenshot-meta">
+      <h3 class="shot-title"><a href="/shots/2034592-Todoist-for-Apple-Watch-Coming-Soon">Todoist for Apple Watch: Coming Soon</a></h3>
+      <p class="time">April 24, 2015</p>
+        <p>Todoist for Apple Watch is Coming Soon. Here's why:
+https://blog.todoist.com/2015/04/24/todoist-apple-watch-coming-soon/</p>
+
+
+    </div>
+
+
+  </div>
+
+
+    <div class="page">
+  <div class="pagination"><a class="previous_page" rel="prev" href="/alexmuench/projects/429186-Todoist?page=3">&larr; Prev</a> <span class="next_page disabled">Next &rarr;</span></div>
+</div>
+
+  </div>
+</div>
+
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
+<hr />
+
+<div id="footer" role="contentinfo">
+  <div id="footer-inner">
+    <div class="group">
+      <div class="footer-mod">
+        <p class="logo"><a href="/"><img width="80" alt="dribbble" src="https://cdn.dribbble.com/assets/logo-footer-hd-a05db77841b4b27c0bf23ec1378e97c988190dfe7d26e32e1faea7269f9e001b.png" /></a><br />Show and tell for designers</p>
+
+        <p class="about">What are you working on? Dribbble is a community of designers sharing screenshots of their work, process, and projects.</p>
+
+        <p class="follow">
+          <a href="/dribbble"><img width="24" src="https://cdn.dribbble.com/assets/icon-team-dribbble-8706862cdb0afa7f43f9e0218b073515f0a2bef19780961d324ae4620ebe249b.png" alt="Icon team dribbble" /></a>
+          <a href="http://twitter.com/dribbble"><img width="24" src="https://cdn.dribbble.com/assets/icon-team-twitter-1fa6921d96b16e47f00ad0381ebbab59ba089c22b21f9bce783c9a4a077f40e9.png" alt="Icon team twitter" /></a>
+          <a href="http://facebook.com/dribbble"><img width="24" src="https://cdn.dribbble.com/assets/icon-team-facebook-4d63851997b88eb903858057327d93df9f950a55c5104a3a19206f2005682ea3.png" alt="Icon team facebook" /></a>
+          <a href="http://instagram.com/dribbble"><img width="24" src="https://cdn.dribbble.com/assets/icon-team-instagram-5dfdcd1478ea4a1c1e109b32adbd3878062aa1eb571da63ac379e0da1d2d5762.png" alt="Icon team instagram" /></a>
+          <a href="/stories">
+            <img width="24" src="https://cdn.dribbble.com/assets/icon-team-blog-2705adcb7ee6522051e175d10683208f0fa0ad17daa15fdf3f36aca99c540312.png" alt="Icon team blog" />
+</a>        </p>
+      </div>
+      <div class="footer-mod">
+        <div class="extra-links">
+          <h3><a href="/">Dribbble</a></h3>
+          <ul>
+            <li><a id="f-home" href="/about">About</a></li>
+            <li><a href="https://help.dribbble.com">Help</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/careers">Careers</a></li>
+            <li><a href="/terms">Terms</a></li>
+            <li><a href="/guidelines">Guidelines</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+            <li><a href="/shots?list=playoffs">Playoffs</a></li>
+            <li><a href="https://shop.dribbble.com/">Shop</a></li>
+            <li><a href="/testimonials">Testimonials</a></li>
+            <li><a href="/branding">Media Kit</a></li>
+            <li><a href="/advertise">Advertise</a></li>
+            <li><a href="http://developer.dribbble.com">API</a></li>
+            <li><a href="/apps">Apps</a></li>
+            <li><a href="/places">Places</a></li>
+          </ul>
+        </div>
+        <div class="additional-links">
+          <h3><a href="/hiring">Hiring at Dribbble</a></h3>
+          <ul>
+            <li><a href="/jobs/new">Post a job</a></li>
+            <li><a href="/designers">Search designers</a></li>
+            <li><a href="/pro">Add your team</a></li>
+          </ul>
+          <h3>Directories</h3>
+          <ul>
+            <li><a href="/directories/jobs">Jobs</a></li>
+            <li><a href="/tags">Tags</a></li>
+          </ul>
+        </div>
+
+          <div class="job-links">
+            <h3><a href="/jobs">Jobs for Designers</a></h3>
+            <ol class="jobs-list">
+  
+<li class="group">
+  <a class="item-team" rel="tipsy" title="Visit the team’s profile" href="/mnmldsgn">
+  <img src="https://cdn.dribbble.com/users/2082400/avatars/normal/f6f7350c59aef0a9260f269af7efee93.png?1516129154" alt="F6f7350c59aef0a9260f269af7efee93" />
+</a>
+
+  <a class="job-edit" rel="tipsy" title="Edit this job" data-creator-id="2082400" href="/jobs/18483/edit">
+    <img src="https://cdn.dribbble.com/assets/icon-edit-button-8d0f2493aa649d9e18d5cf27ee32c93aaa6488ddda85b481f6ca341b85fde845.png" alt="Icon edit button" />
+</a>
+  <a class="item-link group" rel="nofollow" href="/jobs/18483-Brand-Director?source=footer">
+    <span class="item-info">
+      <span class="item-title">MINIMAL</span>
+      <span class="item-desc">Brand Director</span>
+    </span>
+
+    <span class="item-meta">Chicago, IL</span>
+</a></li>
+
+<li class="group">
+  <a class="item-team" rel="tipsy" title="Visit the team’s profile" href="/taskrabbit">
+  <img src="https://cdn.dribbble.com/users/615285/avatars/normal/6b02aacbff3e036546cc483e100aa0b4.png?1468344701" alt="6b02aacbff3e036546cc483e100aa0b4" />
+</a>
+
+  <a class="job-edit" rel="tipsy" title="Edit this job" data-creator-id="615285" href="/jobs/19516/edit">
+    <img src="https://cdn.dribbble.com/assets/icon-edit-button-8d0f2493aa649d9e18d5cf27ee32c93aaa6488ddda85b481f6ca341b85fde845.png" alt="Icon edit button" />
+</a>
+  <a class="item-link group" rel="nofollow" href="/jobs/19516-Product-Designer-Web-Mobile?source=footer">
+    <span class="item-info">
+      <span class="item-title">TaskRabbit</span>
+      <span class="item-desc">Product Designer (Web &amp; Mobile)</span>
+    </span>
+
+    <span class="item-meta">San Francisco, CA</span>
+</a></li>
+
+<li class="group">
+  <a class="item-team" rel="tipsy" title="Visit the team’s profile" href="/auth0">
+  <img src="https://cdn.dribbble.com/users/752778/avatars/normal/bdd1ffd9a06d66f3782a60f3d2e3444d.png?1512067400" alt="Bdd1ffd9a06d66f3782a60f3d2e3444d" />
+</a>
+
+  <a class="job-edit" rel="tipsy" title="Edit this job" data-creator-id="752778" href="/jobs/15403/edit">
+    <img src="https://cdn.dribbble.com/assets/icon-edit-button-8d0f2493aa649d9e18d5cf27ee32c93aaa6488ddda85b481f6ca341b85fde845.png" alt="Icon edit button" />
+</a>
+  <a class="item-link group" data-url="https://jobs.lever.co/auth0/cc9d1628-1ed2-4937-9f53-ca4aecf9f76c?lever-origin=applied&amp;lever-source%5B%5D=Dribbble" rel="nofollow" href="/jobs/15403-Brand-Designer?source=footer">
+    <span class="item-info">
+      <span class="item-title">Auth0</span>
+      <span class="item-desc">Brand Designer</span>
+    </span>
+
+    <span class="item-meta">Buenos Aires</span>
+</a></li>
+
+</ol>
+
+          </div>
+
+      </div>
+
+      <div class="footer-mod">
+          <div class="ad carbon target notloaded">
+</div>
+
+          <h4 id="shots-total" class="group">
+    <strong>9,163,840</strong> shots dribbbled
+  </h4>
+
+      </div>
+    </div>
+
+    <div class="group">
+      <div class="footer-mod">
+        <p class="network">
+          &copy; 2019 Dribbble. All rights reserved.
+        </p>
+      </div>
+
+      <div class="footer-mod">
+        <h5 class="remote-love">
+          Made with &hearts; remotely from
+          <div class="remote-locations">
+  <span>Salem, MA</span>
+  <span>Walnut Creek, CA</span>
+  <span>Victoria, BC</span>
+  <span>Centennial, CO</span>
+  <span>Bournemouth, UK</span>
+  <span>Vancouver, BC</span>
+  <span>Montreal, QC</span>
+  <span>Roseville, MN</span>
+  <span>Rome, GA</span>
+  <span>Peterborough, NH</span>
+  <span>Oakland, CA</span>
+  <span>Austin, TX</span>
+  <span>Mystic, CT</span>
+  <span>Saint Charles, MO</span>
+  <span>Des Moines, IA</span>
+  <span>Salt Lake City, UT</span>
+  <span>Lander, WY</span>
+  <span>Cote St Luc, QC</span>
+  <span>Womelsdorf, PA</span>
+  <span>Minneapolis, MN</span>
+  <span>Highlands Ranch, CO</span>
+  <span>San Francisco, CA</span>
+  <span>Silver Spring, MD</span>
+  <span>London, ON</span>
+  <span>Pottstown, PA</span>
+  <span>Phoenix, AZ</span>
+  <span>Sacramento, CA</span>
+  <span>Farmers Branch, TX</span>
+  <span>Marina del Rey, CA</span>
+  <span>Murray, UT</span>
+  <span>Orlando, FL</span>
+  <span>Paris, France</span>
+  <span>Brookline, MA</span>
+  <span>Los Angeles, CA</span>
+  <span>San Rafael, CA</span>
+  <span>San Luis Obispo, CA</span>
+  <span>Atlanta, GA</span>
+  <span>Tucson, AZ</span>
+</div>
+
+        </h5>
+      </div>
+    </div>
+  </div>
+</div> <!-- /footer -->
+
+
+
+
+  
+
+  <div class="shot-overlay" tabindex="-1">
+    <a href="#" class="close-overlay" aria-label="close">
+      <img src="https://cdn.dribbble.com/assets/icon-shot-x-light-40c073cd65443c99d4ac129b69bf578c8cf97d69b78990c00c4f8c5873b0d601.png" alt="Icon shot x light" />
+    </a>
+
+    <ul class="shot-nav">
+      <li class="shot-nav-prev">
+        <a href="#">
+          <img src="https://cdn.dribbble.com/assets/icon-shot-prev-light-ca583c76838d54eca11832ebbcaba09ba8b2bf347de2335341d244ecb9734593.png" alt="Icon shot prev light" />
+        </a>
+      </li>
+      <li class="shot-nav-next">
+        <a href="#">
+          <img src="https://cdn.dribbble.com/assets/icon-shot-next-light-871a18220c4c5a0325d1353f8e4cc204c3b49beacc63500644556faf25ded617.png" alt="Icon shot next light" />
+        </a>
+      </li>
+    </ul>
+
+    <div class="overlay-content group"></div>
+  </div>
+  <div class="attachment-overlay" style="display:none;" tabindex="-1"></div>
+
+<div id="signup-overlay" class="overlay ">
+  <div class="lightbox">
+    <a href="#" class="close" aria-label="close">
+          <img alt="close" src="https://cdn.dribbble.com/assets/icon-overlay-x-2x-b7df2526b4c26d4e8410a7c437c433908be0c7c8c3c3402c3e578af5c50cf5a5.png" />
+    </a>
+    <div class="display">
+        <div class="processing">Loading…</div>
+    </div>
+  </div>
+</div>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- jquery failover -->
+<script>
+  if (typeof jQuery == 'undefined') {
+    document.write(unescape('%3Cscript src="https://cdn.dribbble.com/assets/jquery-3.2.1.min-620f9d5d78f3d840706c60a049ee6fa359237cef4203800c0403d94c203992f0.js">%3C/script>'))
+  }
+</script>
+
+
+
+<script src="https://cdn.dribbble.com/assets/global-757c0909da1582636150b25425aedb4f4f733aa1e1316b49aafc1a2ad992d398.js"></script>
+<script>
+  Dribbble.JsConfig = {
+      user: {"isLoggedIn":false},
+  }
+</script>
+
+<script src="https://cdn.dribbble.com/assets/packs/js/application-57d7b8ba17f6ab9116b2.js"></script>
+<script src="https://cdn.dribbble.com/assets/jquery.infinitescroll-e59ee171fb09f3b0fbd34dea26fcf353cfc2f94b310bdfd26c029d275ee8d483.js"></script><script>
+$('#main div.page').hide();
+$('.floating-sidebar-content').infinitescroll({
+  navSelector  : "#main a.next_page",
+  nextSelector : "#main a.next_page",
+  itemSelector : ".shot-section",
+  loading      : { msgText: "Loading more…", img: "https://cdn.dribbble.com/assets/grey-bounce-f70d025cc591beba014a9a6815d6a4292563ad9872eb815e58908a01cee581ed.gif", finishedMsg: "You’ve reached the end of the project." },
+  animate      : false,
+  // Strategy for finding the path to which to append the page number.
+  // There is a bug in the default infinitescroll implementation which fails
+  // when there is a 2 in the path, even if ?page=2 exists as a param.
+  pathParse    : function(path, page) {
+    if (path.match(/^(.*?page=)2(\/.*|$)/)) {
+      path = path.match(/^(.*?page=)2(\/.*|$)/).slice(1);
+      return path;
+      }
+  }
+});
+</script>
+  <script>
+setTimeout(function() {
+  Dribbble.Ads.enable();
+  Dribbble.Ads.load("footer");
+}, 1);
+</script>
+
+    <script>
+    (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.onload=a.onerror=Dribbble.cb.a();m.parentNode.insertBefore(a,m)
+    })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+
+    ga("create", "UA-24041469-1", "auto", {
+      "sampleRate": 10.0
+    });
+  </script>
+
+<script>
+  window.analytics.load("NebmEAHRg0JSoZUQ3dvYl38FE7sSSTQi");
+</script>
+
+<script>
+  if (Dribbble.SignupModal) { Dribbble.SignupModal.variant = "email-link" }
+  var segmentPageProperties = {controller: "projects", action: "show"}
+  if (window.location.pathname == "/") {
+    Dribbble.Analytics.namedRoot = "/shots";
+    Dribbble.Analytics.logDribbbleGAPageView("/")
+    segmentPageProperties.url = Dribbble.Analytics.namedRoot
+  } else {
+    Dribbble.Analytics.logDribbbleGAPageView("/alexmuench/projects/429186-Todoist?page=4")
+  }
+  Dribbble.Segment.page(segmentPageProperties)
+
+
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-787470371"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-787470371');
+</script>
+
+
+
+</body>
+</html>
